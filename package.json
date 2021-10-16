@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/ganeshavel.lwc-kujy0uc8-fork-kul45gib",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Rdp2bB6kxEaI67wHpo0S --open"
+  }
+}
